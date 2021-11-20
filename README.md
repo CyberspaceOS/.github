@@ -1,2 +1,0 @@
-# .github
-CyberspaceOS Readme!
