@@ -1,4 +1,4 @@
-<img src="isolated-monochrome-white">
+<img src="isolated-monochrome-white.svg">
 
 <h1 align="center">CyberspaceOS</h1>
 
